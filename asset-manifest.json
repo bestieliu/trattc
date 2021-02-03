@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/trattc/static/css/main.ea9f1dd5.chunk.css",
+    "main.js": "/trattc/static/js/main.befd4e72.chunk.js",
+    "main.js.map": "/trattc/static/js/main.befd4e72.chunk.js.map",
+    "runtime-main.js": "/trattc/static/js/runtime-main.64ca9c6f.js",
+    "runtime-main.js.map": "/trattc/static/js/runtime-main.64ca9c6f.js.map",
+    "static/css/2.150d169a.chunk.css": "/trattc/static/css/2.150d169a.chunk.css",
+    "static/js/2.a4f7f1ba.chunk.js": "/trattc/static/js/2.a4f7f1ba.chunk.js",
+    "static/js/2.a4f7f1ba.chunk.js.map": "/trattc/static/js/2.a4f7f1ba.chunk.js.map",
+    "index.html": "/trattc/index.html",
+    "static/css/2.150d169a.chunk.css.map": "/trattc/static/css/2.150d169a.chunk.css.map",
+    "static/css/main.ea9f1dd5.chunk.css.map": "/trattc/static/css/main.ea9f1dd5.chunk.css.map",
+    "static/js/2.a4f7f1ba.chunk.js.LICENSE.txt": "/trattc/static/js/2.a4f7f1ba.chunk.js.LICENSE.txt",
+    "static/media/img1.4b4a325d.jpg": "/trattc/static/media/img1.4b4a325d.jpg",
+    "static/media/img2.d17975d6.jpg": "/trattc/static/media/img2.d17975d6.jpg",
+    "static/media/img3.6f498416.jpg": "/trattc/static/media/img3.6f498416.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.64ca9c6f.js",
+    "static/css/2.150d169a.chunk.css",
+    "static/js/2.a4f7f1ba.chunk.js",
+    "static/css/main.ea9f1dd5.chunk.css",
+    "static/js/main.befd4e72.chunk.js"
+  ]
+}
